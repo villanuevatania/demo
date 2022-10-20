@@ -14,3 +14,7 @@
 	path = reporting-engine
 	url = https://github.com/OCA/reporting-engine.git
 	branch = 15.0
+[submodule "server-ux"]
+	path = server-ux
+	url = https://github.com/OCA/server-ux.git
+	branch = 15.0
