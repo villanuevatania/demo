@@ -18,3 +18,7 @@
 	path = server-ux
 	url = https://github.com/OCA/server-ux.git
 	branch = 15.0
+[submodule "bank-statement-import"]
+	path = bank-statement-import
+	url = https://github.com/OCA/bank-statement-import.git
+	branch = 15.0
