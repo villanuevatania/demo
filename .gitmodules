@@ -2,3 +2,7 @@
 	path = l10n-spain
 	url = https://github.com/OCA/l10n-spain.git
 	branch = 15.0
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = https://github.com/OCA/account-financial-tools.git
+	branch = 15.0
