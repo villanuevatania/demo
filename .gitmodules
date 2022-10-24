@@ -22,3 +22,7 @@
 	path = bank-statement-import
 	url = https://github.com/OCA/bank-statement-import.git
 	branch = 15.0
+[submodule "mis-builder"]
+	path = mis-builder
+	url = https://github.com/OCA/mis-builder.git
+	branch = 15.0
