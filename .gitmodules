@@ -26,3 +26,19 @@
 	path = mis-builder
 	url = https://github.com/OCA/mis-builder.git
 	branch = 15.0
+[submodule "odoo-argentina"]
+	path = odoo-argentina
+	url = https://github.com/ingadhoc/odoo-argentina.git
+	branch = 15.0
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = https://github.com/ingadhoc/account-invoicing.git
+	branch = 15.0
+[submodule "account-payment"]
+	path = account-payment
+	url = https://github.com/ingadhoc/account-payment.git
+	branch = 15.0
+[submodule "odoo-argentina-ee"]
+	path = odoo-argentina-ee
+	url = https://github.com/ingadhoc/odoo-argentina-ee.git
+	branch = 15.0
